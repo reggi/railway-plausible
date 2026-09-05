@@ -1,13 +1,13 @@
 {
   "source": {
     "type": "git",
-    "url": "https://github.com/reggi/template-railway",
+    "url": "https://github.com/reggi/template-railway.git",
     "path": ".knitto",
-    "ref": "v0.0.1"
+    "ref": "v0.1.1"
   },
   "engine": {
     "package": "knitto",
-    "version": "0.0.1"
+    "version": "0.2.0"
   },
   "metadata": {
     "name": "railway-plausible",

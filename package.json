@@ -7,6 +7,7 @@
     "format": "prettier --write .",
     "format:check": "prettier --check .",
     "package:check": "sort-package-json package.json --check",
+    "package:fix": "sort-package-json package.json",
     "railway:apply": "railway config apply",
     "railway:plan": "railway config plan",
     "test": "npm run test:quality",
