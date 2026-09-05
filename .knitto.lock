@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "digest": "sha256:02c90d6f1f423190752ed58253079b6882447a7f52d70c67e5f403044934b332",
+  "digest": "sha256:b34fe87b1343e48209b401193980704b4000f54c4c28f1b22b27384251902bc0",
   "source": {
     "type": "git",
     "url": "https://github.com/reggi/template-railway.git",
     "path": ".knitto",
-    "ref": "v0.1.1"
+    "ref": "v0.1.2"
   },
   "engine": {
     "package": "knitto",
@@ -15,8 +15,8 @@
     "sourceType": "git",
     "locator": "https://github.com/reggi/template-railway.git",
     "templatePath": ".knitto",
-    "revision": "db8805418f95fcd293e15da3fd8a99c1aa87ab40"
+    "revision": "2cd08624700a8f76a53d2d2e6444251715f45264"
   },
   "templateSchemaVersion": 1,
-  "resolvedAt": "2026-09-05T07:18:47.916Z"
+  "resolvedAt": "2026-09-05T07:44:17.179Z"
 }
