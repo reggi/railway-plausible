@@ -1,0 +1,16 @@
+{
+  "images": {
+    "clickhouse": {
+      "repository": "clickhouse/clickhouse-server",
+      "tag": "24.12.6.70-alpine",
+      "digest": "sha256:cd450891db46cc6ffe313ca2b0fb7dbfb897a6873ca74a724cbe050a2cf62621",
+      "releaseUrl": "https://github.com/ClickHouse/ClickHouse/releases"
+    },
+    "plausible": {
+      "repository": "ghcr.io/plausible/community-edition",
+      "tag": "v3.2.1",
+      "digest": "sha256:33e60bfb40f2df5da00f8753b76fad04f67dba3abe6d73eb516e440e3fb62985",
+      "releaseUrl": "https://github.com/plausible/community-edition/releases"
+    }
+  }
+}

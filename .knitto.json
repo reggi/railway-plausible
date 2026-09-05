@@ -1,0 +1,16 @@
+{
+  "source": {
+    "type": "git",
+    "url": "https://github.com/reggi/template-railway.git",
+    "path": ".knitto",
+    "ref": "main"
+  },
+  "engine": {
+    "package": "knitto",
+    "version": "1.0.0-rc.1"
+  },
+  "metadata": {
+    "name": "railway-plausible",
+    "description": "Railway infrastructure for Plausible Community Edition"
+  }
+}
